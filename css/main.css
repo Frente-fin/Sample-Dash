@@ -1,0 +1,36 @@
+/* .main-header {
+  background: url(../img/background.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 600px;
+  color: #fff;
+}
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+} */
+
+/* .section-main {
+  height: 500px;
+} */
+
+.loader {
+  position: absolute;
+  top: 70%;
+  left: 47%;
+}
+
+.mobile-text {
+  margin-top: 175px;
+}
+
+/* .roundy {
+  padding-bottom: 5px;
+  border: 2px solid #fff;
+  border-radius: 15px;
+} */
